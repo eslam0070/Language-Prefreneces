@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguagePrefreneces</string>
+    <string name="change_language">تغيير الغه</string>
+    <string name="default_language_is_english">"اللغة الافتراضية هي اللغة الإنجليزية ، انقر فوق لغة أخرى لتغيير اللغة. "</string>
+    <string name="email">اميل</string>
+    <string name="english">انجليزى</string>
+    <string name="login">نسجيل دخول</string>
+    <string name="password">باسورد</string>
+    <string name="pick_your_language">اختار لغه</string>
+    <string name="settings_tips">"اللغة الافتراضية هي الإنجليزية ، انقر فوق آخر لتغيير languagClick لإعادة تشغيل النشاط. انقر فوق طويل لإعادة تشغيل التطبيق. "</string>
+    <string name="submit">ارسال</string>
+    <string name="welcome">اهلا</string>
+    <string name="settings_label">الاعادادت</string>
+    <string name="activity_2_label">شاشه 2</string>
+    <string name="activity_1_label">شاشه 1</string>
+    <string name="arabic">عربى</string>
+</resources>

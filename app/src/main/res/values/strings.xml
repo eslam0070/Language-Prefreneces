@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguagePrefreneces</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="change_language">Change Language</string>
+    <string name="pick_your_language">Pick your language</string>
+    <string name="default_language_is_english">Default language is English, Tap another to change language.</string>
+    <string name="submit">Submit</string>
+    <string name="arabic">Arabic</string>
+    <string name="settings_tips">Click for activity restart Long click for application restart</string>
+    <string name="english">English</string>
+    <string name="welcome">Welcome</string>
+    <string name="activity_1_label">Screen 1</string>
+    <string name="activity_2_label">Screen 2</string>
+    <string name="settings_label">Settings</string>
+
+</resources>
